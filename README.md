@@ -216,3 +216,6 @@ Azure Key Vault is a centralized cloud service for storing your application secr
 
 [WhizLabs SC-900](https://www.whizlabs.com/microsoft-security-compliance-identity-fundamentals-sc-900-certification/)
 
+[Microsoft Learning - Microsoft Certified Trainer (MCT) lab for SC-900](https://github.com/MicrosoftLearning/SC-900-Microsoft-Security-Compliance-and-Identity-Fundamentals)
+
+[Microsoft Learning - Microsoft Certified Trainer (MCT) labs for all exams](https://github.com/MicrosoftLearning/)
